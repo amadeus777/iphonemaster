@@ -127,7 +127,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">IPhone Master</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-d\">ЗВОНИТЕ&nbsp;<br>8 747 525 59 79&nbsp;<br>8 778 832 66 49</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features4-9\">НАШИ ПРЕИМУЩЕСТВА</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-d\">КОНТАКТЫ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#form1-a\">Обратный звонок</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-d\">ЗВОНИТЕ&nbsp;<br>8 747 525 59 79&nbsp;<br>8 778 832 66 49</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features4-9\">НАШИ ПРЕИМУЩЕСТВА</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-d\">ГДЕ МЫ НАХОДИМСЯ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#form1-a\">Обратный звонок</a></li>"
         },
         {
           "_tags": [
@@ -136,7 +136,7 @@
           "_name": "header2",
           "_styles": {
             ".mbr-section-text": {
-              "font-size": "20px",
+              "font-size": "23px",
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
               "text-align": "right"
@@ -147,7 +147,7 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700"
             },
             ".mbr-section-text B": {
-              "font-size": "30px",
+              "font-size": "36px",
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
             }
@@ -557,7 +557,7 @@
             "paddingBottom": 1,
             "bgColor": "#ffffff"
           },
-          "text": "<blockquote><p>Самая частая поломка у IPhone - это разбитый экран. </p><p><br></p><p>Стоимость оригинального экрана к примеру для IPhone 5 стоит у нас 2 500 тг, а за работу мы берем всего 1000 тг. </p><p><br></p><p>Можешь сравнить эти расценки с ценами наших конкурентов и убедиться, что мы говорим правду.</p><p><br></p><p>Не забывай, что мы ещё даем гарантию на все наши работы и запчасти. </p><p><br></p><p>Поэтому мы делаем ремонт не только выгодно, но и качественно!</p></blockquote>"
+          "text": "<blockquote><p>Самая частая поломка у IPhone - это разбитый экран. </p><p><br></p><p>Стоимость замены стекла к примеру для IPhone 5S стоит у нас 5 500 тг. </p><p><br></p><p>Можешь сравнить эти расценки с ценами наших конкурентов и убедиться, что мы говорим правду.</p><p><br></p><p>Не забывай, что мы ещё даем гарантию на все наши работы и запчасти. </p><p><br></p><p>Поэтому мы делаем ремонт не только выгодно, но и качественно!</p></blockquote>"
         },
         {
           "_tags": [
@@ -639,6 +639,9 @@
             },
             ".card-footer > div": {
               "color": "#000000"
+            },
+            ".card-block P": {
+              "color": "#553982"
             }
           },
           "testimonial": [

@@ -484,7 +484,7 @@ h6,
   color: #cccccc!important;
 }
 #header2-3 .mbr-section-text {
-  font-size: 20px;
+  font-size: 23px;
   font-family: 'Lora', serif;
   text-align: right;
 }
@@ -493,7 +493,7 @@ h6,
   font-family: 'Roboto Slab', serif;
 }
 #header2-3 .mbr-section-text B {
-  font-size: 30px;
+  font-size: 36px;
   font-family: 'Lora', serif;
 }
 #header3-7 .mbr-section-title,
@@ -559,6 +559,9 @@ h6,
 }
 #testimonials2-c .card-footer > div {
   color: #000000;
+}
+#testimonials2-c .card-block P {
+  color: #553982;
 }
 #header3-e .mbr-section-title,
 #header3-e .mbr-section-subtitle {
