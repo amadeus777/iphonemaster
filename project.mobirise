@@ -10,7 +10,7 @@
         "secondaryColor": "#bfcecb",
         "successColor": "#90a878",
         "infoColor": "#7e9b9f",
-        "warningColor": "#2b0680",
+        "warningColor": "#1e0753",
         "dangerColor": "#ea1715",
         "titleFont": "Montserrat",
         "subtitleFont": "Lora",
@@ -569,7 +569,7 @@
               "color": "#cccccc"
             },
             ".mbr-section-title": {
-              "color": "#2b0680",
+              "color": "#ffffff",
               "font-size": "30px"
             },
             "SMALL": {
@@ -668,7 +668,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-5-2000x1333.jpg",
-            "bgColor": "#9fa9b4",
+            "bgColor": "#c1c1c1",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": "0.3",
