@@ -154,10 +154,10 @@
           },
           "_anchor": "header2-3",
           "_params": {
-            "imageSize": "46",
+            "imageSize": "44",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/origl1-2000x940.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/105-2000x912.jpg",
             "bgColor": "#2b0680",
             "bgColorRadio": false,
             "bgVideo": {
