@@ -126,7 +126,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">IPhons Master</a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">IPhone Master</a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-d\">ЗВОНИТЕ&nbsp;<br>8 747 525 59 79&nbsp;<br>8 778 832 66 49</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features4-9\">НАШИ ПРЕИМУЩЕСТВА</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-d\">КОНТАКТЫ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#form1-a\">Обратный звонок</a></li>"
         },
         {
@@ -195,7 +195,7 @@
               "size": 250
             }
           },
-          "title": "Разбился &nbsp;IPhon?<br><br>",
+          "title": "Разбился &nbsp;IPhone?<br><br>",
           "text": "<b>Не беда!</b> <br><br>Мы устраняем поломки любой сложности <br>по лучшим ценам в &nbsp;Алматы.<br><br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">УЗНАТЬ СТОИМОСТЬ&nbsp;</a>"
         },
